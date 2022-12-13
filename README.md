@@ -15,7 +15,7 @@ Part of NCSU coursework ECE 514 - Random Processes
 - Part II
   - Verification of Theoretical values of Covariance Matrix and Covariance matrix obtained by Cholesky Method in MATLAB.
   
-- Part I Problem 1: Generation of distributions using MATLAB routine and REJECTION method files:
+- Part I Problem 1: Generation of distributions using MATLAB ROUTINE and REJECTION method files:
   - p1_normal_routine_rejection.m, p1_uniform_routine_rejection.m, p1_exponential_routine_rejection.m
 - Part I Problem 2: Transformation of Random Variables files:
   - p2_transform_normal.m, p2_transform_uniform.m, p2_transform_exponential.m
