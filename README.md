@@ -3,8 +3,8 @@ Part of NCSU coursework ECE 514 - Random Processes
 
 - Understanding the probability distributions, transformations of RVs, convergences, Central Limit Theorem and LLN (Law of Large Numbers) is very important while solving communications/Machine Learning/Deep Learning Problems.
 - Central Limit Theorem is the most important concept in Statistics and makes us understand why Normal (Gaussian) distribution is popular while solving problems. As we increase the samples/data points, every distribution with finite mean and variance follows Normal distribution. This is what is proved in a part of this project.
-- Another most important aspect in probability is convergence, all the four types of convergence are proved in another part of this project
-- Lastly, it is very important o understand the correlation between to  variables. The correlation is also implemented in this project.
+- Another most important aspect in probability is convergence, all the four types of convergence are proved in another part of this project.
+- Lastly, it is very important to understand the correlation between to  variables. It is important to know the dependency between vatiables on one another which could be known with correlation. The verification of correlation is also implemented in this project.
 
 - The project is divided into two parts.
 - Part I
